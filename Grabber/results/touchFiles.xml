@@ -1,0 +1,7 @@
+<spider root='http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends'>
+	<url type='JavaScript'>http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends//static/js/jquery-2.js</url>
+	<url type='JavaScript'>http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends//static/js/foundation.js</url>
+	<url type='JavaScript'>http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends//static/js/zcom.js</url>
+	<url type='MetaLink'>http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends//static/css/app.css</url>
+	<url type='MetaLink'>http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends</url>
+</spider>

